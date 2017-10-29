@@ -33,4 +33,4 @@ By default the perl script will use the interface named wlan0.  When killed, the
 ```
 ## About
 
-The script will put your wifi chipset into monitor mode and then listen from probe requests.  The script changes the wifi channel every four seconds to monitor the traffic over a larger range of frequencies.
+The script will put your wifi chipset into monitor mode and then listen for probe requests.  The script changes the wifi channel every four seconds to monitor the traffic over a larger range of frequencies.
